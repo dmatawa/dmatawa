@@ -2,6 +2,8 @@
 
 👋 Hi there! I’m **Dominic Matawa**, a passionate data-driven problem solver currently diving deep into the world of numbers and patterns at the Stevens Institute of Technology. I'm working towards a Bachelor's degree in Pure and Applied Mathematics, while also painting the bigger picture with a minor in Data Visualization.
 
+---
+
 **What I'm Focused On:**
 - 🧮 **Pure & Applied Mathematics:** Exploring the elegance of theoretical concepts and applying them to solve real-world problems.
 - 📈 **Data Visualization Minor:** Combining the precision of data with the power of visual storytelling to make complex information accessible and actionable.
